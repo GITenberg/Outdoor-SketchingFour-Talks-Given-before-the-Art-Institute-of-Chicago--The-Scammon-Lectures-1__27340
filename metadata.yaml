@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/444
     wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
 description: Composition -- Mass -- Water-colors -- Charcoal.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27340#Outdoor-SketchingFour-Talks-Given-before-the-Art-Institute-of-Chicago--The-Scammon-Lectures-1_
 gutenberg_issued: '2008-11-27'
 gutenberg_type: Text
 identifiers:
