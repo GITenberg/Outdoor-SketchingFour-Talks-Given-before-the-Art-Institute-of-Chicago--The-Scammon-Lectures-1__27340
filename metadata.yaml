@@ -1,0 +1,33 @@
+_repo: Outdoor-SketchingFour-Talks-Given-before-the-Art-Institute-of-Chicago--The-Scammon-Lectures-1__27340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Francis Hopkinson
+    alias: Smith, F. Hopkinson (Francis Hopkinson)
+    birthdate: 1838
+    deathdate: 1915
+    gutenberg_agent_id: '444'
+    url: http://www.gutenberg.org/2009/agents/444
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Hopkinson_Smith
+description: Composition -- Mass -- Water-colors -- Charcoal.
+gutenberg_issued: '2008-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27340'
+  lccn: '15005790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Landscape painting'
+- !lcsh 'Landscape drawing'
+tableOfContents: Composition -- Mass -- Water-colors -- Charcoal.
+title: 'Outdoor Sketching
+
+  Four Talks Given before the Art Institute of Chicago; The Scammon Lectures, 1914'
+url: http://www.gutenberg.org/ebooks/27340
